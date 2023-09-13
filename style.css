@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #333;
+}
+
+label {
+    font-weight: bold;
+}
+
+input {
+    width: 50px;
+    padding: 5px;
+}
+
+#guessButton {
+    background-color: #0073e6;
+    color:white ;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#newGameButton {
+    background-color: #ff0000;
+    color:white ;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+
+#result {
+    font-weight: bold;
+    color: #0073e6;
+}
